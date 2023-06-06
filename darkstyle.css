@@ -1,0 +1,136 @@
+.dark {
+  background-image: linear-gradient(
+    #000,
+    #000,
+    #000
+  );
+}
+
+
+
+.dark .menu-side span{
+  
+  color: #f39c12;
+  
+}
+
+
+.dark .menu-side #bars{
+  background: #000;
+}
+
+
+.dark .header {
+  background-image: linear-gradient(rgb(4, 9, 30, 0.8), rgb(0, 0, 0, 0.6)),
+    url(photos/background.jpg);
+}
+
+.dark .nav-links ul li a {
+  color: #ffd700;
+}
+
+.dark .nav-links ul li::after {
+  background: #ffffff;
+}
+
+.dark .typed {
+  color: #ffd700;
+}
+
+.dark .typed .anim {
+  color: #ffffff;
+}
+
+.dark .fa:hover {
+  background: #ffd700;
+  color: #171717;
+}
+
+
+
+
+
+
+.dark .fa-facebook {
+  background: #000000;
+  color: #ffd700;
+}
+
+/* @media (max-width:1024px) { */
+  
+  /* .dark .fa-facebook { */
+    /* background: red; */
+    /* color: white; */
+  /* } */
+/* } */
+
+.dark .container section {
+    
+    background-color: #2f3542;
+}
+
+.dark .container section:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
+.dark .container section:hover h1 {
+  color: #ff6348;
+}
+
+.dark .card {
+  background: #2f2f2f;
+  color: #ffffff;
+  box-shadow: tomato inset;
+}
+
+.dark .card-icon {
+  background: #ff6348;
+}
+.dark .card:hover .card-icon {
+  color: #ffd700;
+}
+
+.dark footer {
+  background: #101010;
+  color: #fff;
+}
+
+.dark .footer-content p {
+  color: #ffffff;
+}
+
+.dark .socials a {
+  color: #ffffff;
+}
+
+.dark .socials .fa-facebook{
+  background: #101010;
+  color: #ffd700;
+}
+
+.dark .socials a:hover i {
+  background: #ffd700;
+  color: #000;
+}
+
+.dark .devloper {
+  color: #ff6348;
+}
+
+
+
+.dark .ball {
+  background-color: #000000;
+}
+.dark .checkbox:checked + .label .ball {
+  background-color: #fff;
+}
+
+.dark .fa-moon {
+  color: #ff6348;
+}
+
+.dark .fa-sun {
+  color: #f39c12;
+}
+
